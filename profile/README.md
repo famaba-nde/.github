@@ -6,5 +6,7 @@ It has 5 interlinked parts:
 * Frontend
 * Backend
 * Processor
-* Machine Learning
+* Parsing
 * Documentation
+
+As well as multiple deprecated or testing environments
